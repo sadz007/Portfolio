@@ -15,7 +15,7 @@ const Contact = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-pink-600 '>
                     Contact
                 </p>
-                <p className='py-4'> // Submit the form belwo or send me an email - myemail.@mail.com</p>
+                <p className='py-4'> // Submit the form below or send me an email - myemail.@mail.com</p>
             </div>
 
             <input type="text" name="name" value="" className='bg-gray-300 p-2' placeholder='Name'/>
